@@ -4,6 +4,7 @@
 **kohsukee/kohsukee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Simpler%20is%20usually%20better
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
