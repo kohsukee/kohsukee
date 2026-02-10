@@ -1,3 +1,5 @@
+![](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Simpler%20is%20usually%20better)
+
 <!--
 **kohsukee/kohsukee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
